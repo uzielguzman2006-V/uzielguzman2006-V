@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 <h2>Mis conosimientos</h2>
 ![Python](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Git](https://img.shields.io/badge/Git-red)
